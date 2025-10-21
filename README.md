@@ -1,6 +1,4 @@
-Here’s a clean, professional **GitHub README.md** version of your description — perfect for uploading with your project (without the actual code):
 
----
 
 # 🧠 AI Training Schedule Agent
 
@@ -140,4 +138,3 @@ For project code or collaboration inquiries:
 
 ---
 
-Would you like me to make this in **Markdown file format (`README.md`)** ready to upload to GitHub?
